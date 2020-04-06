@@ -22,9 +22,9 @@ Faliq Tan 18000809</br>
 Sir Arwan Ahmad Khoiruddin</br>
 
 # Special thanks to
-Friends we have made along the way in OOP class
-Sir Arwan Ahmad Khoiruddin, our lab tutor for providing deeper knowledge on gaming development
-Sir Nordin Zakaria for all the teaching in OOP, opening our eyes to the world of programming
+Friends we have made along the way in OOP class</br>
+Sir Arwan Ahmad Khoiruddin, our lab tutor for providing deeper knowledge on gaming development</br>
+Sir Nordin Zakaria for all the teaching in OOP, opening our eyes to the world of programming</br>
 
 # Legal: We do not own any of the assets used in this project.
 # Will take down upon request
