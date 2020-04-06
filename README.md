@@ -2,7 +2,7 @@
 <b>Description:</b></br>
 Inspired by the classic video game 'Space Invaders' released in 1978, 'Edge of the Universe' is a fast-paced shooting video game set in outer space. Use your railgun mounted on your spaceship to destroy the enemy spaeships who are trying to destroy you. Make sure to dodge their shots (and them) and be accurate with yours'. Goodluck!</br></br>
 <b>Controls:</b></br>
-Arrow keys: UP/DOWN/LEFT/RIGHT
+Arrow keys: UP/DOWN/LEFT/RIGHT</br>
 Spacebar: shoot</br>
 
 # Game Screenshots
