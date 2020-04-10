@@ -13,7 +13,10 @@ Spacebar: shoot</br>
 <b>Screenshot3</b></br>
 ![Screenshot3](Capture%203.png)</br>
 
-# Credits
+# Video Sample
+https://youtu.be/6VTlfjIDLao</br>
+
+# Credits:
 # Directed by
 Ikmal Hazim Rasyad Bin Abdul Karim 17007578</br>
 Faliq Tan 18000809</br>
