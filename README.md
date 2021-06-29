@@ -7,14 +7,14 @@ Spacebar: shoot</br>
 
 # Game Screenshots
 <b>Screenshot1</b></br>
-![Screenshot1](Capture%201.png)</br>
+![Screenshot1](Image65.jpg)</br>
 <b>Screenshot2</b></br>
-![Screenshot2](Capture%202.png)</br>
+![Screenshot2](Image66.jpg)</br>
 <b>Screenshot3</b></br>
-![Screenshot3](Capture%203.png)</br>
+![Screenshot3](Image67.jpg)</br>
 
 # Video Sample
-https://youtu.be/6VTlfjIDLao</br>
+https://youtu.be/ZnxRDIySiWg</br>
 
 # Credits:
 # Directed by
