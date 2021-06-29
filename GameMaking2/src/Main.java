@@ -98,7 +98,7 @@ public class Main extends Application {
         primaryStage.show();
     }
 
-    MediaPlayer musicPlayer; {
+    /*MediaPlayer musicPlayer; {
         Media mp3music = new Media(getClass().getResource(Configs.musicPath).toExternalForm());
         musicPlayer = new MediaPlayer(mp3music);
         musicPlayer.setAutoPlay(true);
@@ -110,5 +110,5 @@ public class Main extends Application {
                 musicPlayer.seek(Duration.ZERO);
             }
         });
-    }
+    }*/
 }
